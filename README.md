@@ -1,5 +1,5 @@
 # Movies-ETL- Extract, Transform, Load
-##Project Overview
+## Project Overview
 In this project, I've created an automated pipleine that takes in new data, performs the appropriate transformations, and loads the data into existing tables. I've refactored the code and created one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
 
 
